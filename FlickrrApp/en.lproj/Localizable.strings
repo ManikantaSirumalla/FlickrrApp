@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  FlickrrApp
+  Created by Manikanta Sirumalla on 14/02/23.
+*/
+"search.photos.here" = "Search photos here...";
+"cannot.fetch.photos" = "Cannot fetch photos!";
+"flickrr.photos" = "Flickrr photos";
+"cannot.fetch.description" = "Cannot fetch description!";
+"more.info" = "More info:";
+"no.description.available" = "No description available";
+"okay" = "Okay";
+"url.isn't.valid" = "URL isn't valid";
+"data.was.not.retrieved" = "Data was not retrieved";
+"no.internet.connection" = "No internet connection";
+"invalid.data.response" = "Invalid data response";
+"no.data.available" = "No data available";
+"something.went.wrong" = "Something went wrong";

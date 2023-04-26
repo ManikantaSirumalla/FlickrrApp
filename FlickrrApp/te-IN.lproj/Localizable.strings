@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  FlickrrApp
+  Created by Manikanta Sirumalla on 14/02/23.
+*/
+"search.photos.here" = "ఫోటోలను ఇక్కడ శోధించండి...";
+"cannot.fetch.photos" = "ఫోటోలను పొందడం సాధ్యం కాదు!";
+"flickrr.photos" = "Flickrr ఫోటోలు";
+"cannot.fetch.description" = "వివరణ అందుబాటులో లేదు";
+"more.info" = "మరింత సమాచారం:";
+"no.description.available" = "వివరణ పొందడం సాధ్యం కాదు!";
+"okay" = "సరే";
+"url.isn't.valid" = "URL చెల్లదు";
+"data.was.not.retrieved" = "డేటా తిరిగి పొందబడలేదు";
+"no.internet.connection" = "ఇంటర్నెట్ కనెక్ట్ కాలేదు";
+"invalid.data.response" = "డేటా ప్రతిస్పందన చెల్లదు";
+"no.data.available" = "సమాచారం అందుబాటులో లేదు";
+"something.went.wrong" = "ఎక్కడో తేడ జరిగింది";
